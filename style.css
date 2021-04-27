@@ -4,7 +4,7 @@ h1{color:grey;font-family:verdana}
 .maindiv {
     background-color: white;
     color: black;
-    width: 300px;
+    width: 500px;
     padding: 20px;
     border-radius: 25px;
     margin: 0 auto;
@@ -26,4 +26,8 @@ h1{color:grey;font-family:verdana}
 b {
     background-color: yellow;
     font-weight: unset;
+}
+
+.innerContent {
+    padding: 0 20%;
 }
